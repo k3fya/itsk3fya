@@ -16,7 +16,21 @@
   <img src="https://komarev.com/ghpvc/?username=k3fya&style=flat-square&color=blue" alt="k3fya"/>
 
   <h1>
-    hey there
+    hiii, im k3fya
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+### About me
+I am a junior front-end developer with one year of experience, actively developing my skills in creating user-friendly and aesthetically pleasing web interfaces. In my work, I strive to achieve a balance between functionality and visual harmony.<br>
+In addition to coding, I appreciate moments of quiet with good music and hours spent with friends. It is important for me to find a balance between focused work and lively, sincere moments in life.
+
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width="40" height="40"/>&nbsp;
