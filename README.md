@@ -7,7 +7,7 @@
     🎮 Music • Games • Anime • Code
     🥐 Quaso 🥐
 </pre>
-<br>
+
 <img src="https://media.tenor.com/cd8HRyOra7EAAAAM/nijika-ijichi.gif" height="80" />
 <br><br><br>
     
